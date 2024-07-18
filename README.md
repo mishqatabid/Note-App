@@ -7,7 +7,7 @@ Welcome to NoteSnap, the efficient and accessible note-taking app. This applicat
 - **Always Accessible:** Access your notes anytime, anywhere, with real-time synchronization.
 - **State Management:** Seamlessly manage the state of your notes to ensure smooth and responsive user experience.
 - **Firebase Integration:** Securely store and sync your notes in real-time with Firebase backend.
-
+  
 ## Screens
 - **Splash Screen:** A welcoming screen displayed when the app is launched.
 - **Login & Register Screen:** Securely log in or create a new account to start using NoteSnap.
