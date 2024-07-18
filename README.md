@@ -1,6 +1,6 @@
 # NoteSnap
 
-Welcome to NoteSnap, the efficient and accessible note-taking app. This application is designed to help you capture your thoughts, ideas, and important information seamlessly and access them anytime, anywhere. With robust state management and Firebase integration, NoteSnap ensures your notes are always up-to-date and synchronized across all your devices.
+NoteSnap, the efficient and accessible note-taking app. This application is designed to help you capture your thoughts, ideas, and important information seamlessly and access them anytime, anywhere. With robust state management and Firebase integration, NoteSnap ensures your notes are always up-to-date and synchronized across all your devices.
 
 ## Features
 - **Efficient Note Taking:** Quickly jot down notes with a simple and intuitive interface.
