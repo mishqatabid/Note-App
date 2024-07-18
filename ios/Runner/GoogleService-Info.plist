@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>147117910130-fjt66b1jngmv3kgtrj1tpsi7iv301gup.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.147117910130-fjt66b1jngmv3kgtrj1tpsi7iv301gup</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBW5WlfUAN2ywh663n87pe__7loEHmREcg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>147117910130</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.notepad</string>
+	<key>PROJECT_ID</key>
+	<string>notesnap-2a9f1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>notesnap-2a9f1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:147117910130:ios:4c4f94943d187a5214faeb</string>
+</dict>
+</plist>
